@@ -60,6 +60,16 @@ If you prefer the terminal and have Python installed, you can use it to launch a
     Open your browser and go to: `http://localhost:8000`
 ## 📂 Project Structure
 
+
+## 📬 Contact Me
+
+I am currently open to roles in **Data Analytics**, **Machine Learning**, and **Python Development**.
+
+* **Email:** [saifibrahim.up@gmail.com](mailto:saifibrahim.up@gmail.com)
+* **LinkedIn:** [Saif Ibrahim](https://www.linkedin.com/in/saif-ibrahim-tech/)
+* **YouTube:** [NextGen Ai Hub](https://www.youtube.com/@NextGenAiHub)
+* **Portfolio:** [saif-tech-portfolio.netlify.app](https://saifibrahim.netlify.app/)
+
 ```text
 ├── assets/
 │   ├── css/        # Main stylesheets
@@ -73,13 +83,5 @@ If you prefer the terminal and have Python installed, you can use it to launch a
 ├── header.html     # Reusable Header Component
 └── README.md       # Documentation
 
-## 📬 Contact Me
-
-I am currently open to roles in **Data Analytics**, **Machine Learning**, and **Python Development**.
-
-* **Email:** [saifibrahim.up@gmail.com](mailto:saifibrahim.up@gmail.com)
-* **LinkedIn:** [Saif Ibrahim](https://www.linkedin.com/in/saif-ibrahim-tech/)
-* **YouTube:** [NextGen Ai Hub](https://www.youtube.com/@NextGenAiHub)
-* **Portfolio:** [saif-tech-portfolio.netlify.app](https://saifibrahim.netlify.app/)
 
 © 2025 Saif Ibrahim. All Rights Reserved.
