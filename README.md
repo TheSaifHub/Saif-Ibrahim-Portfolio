@@ -32,7 +32,7 @@ The site is built with a **mobile-first** approach, ensuring it looks great on a
 
 Since this project uses JavaScript `fetch` to load the header/footer, you cannot simply open the `index.html` file. You must run a local server.
 
-## 🚀 How to Run Locally
+## 🚀 How to Run On Server
 
 Since this project uses JavaScript to dynamically load the header and footer, you cannot simply open `index.html` by double-clicking it (browsers block local file requests for security). You must use a local server.
 
