@@ -67,7 +67,7 @@ I am currently open to roles in **Data Analytics**, **Machine Learning**, and **
 
 * **Email:** [saifibrahim.up@gmail.com](mailto:saifibrahim.up@gmail.com)
 * **LinkedIn:** [Saif Ibrahim](https://www.linkedin.com/in/saif-ibrahim-tech/)
-* **YouTube:** [NextGen Ai Hub](https://www.youtube.com/@NextGenAiHub)
+* **YouTube:** [NextGen Ai Hub](https://www.youtube.com/@NextGenAiHub-i8y)
 * **Portfolio:** [saif-tech-portfolio.netlify.app](https://saifibrahim.netlify.app/)
 
 ```text
