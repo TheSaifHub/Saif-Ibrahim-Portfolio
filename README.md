@@ -36,30 +36,11 @@ Since this project uses JavaScript `fetch` to load the header/footer, you cannot
 
 Since this project uses JavaScript to dynamically load the header and footer, you cannot simply open `index.html` by double-clicking it (browsers block local file requests for security). You must use a local server.
 
-### Option 1: VS Code (Recommended)
+### Open UI (Recommended)
 1.  Open the project folder in **Visual Studio Code**.
 2.  Install the **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)** extension.
 3.  Right-click on `index.html`.
 4.  Select **"Open with Live Server"**.
-
-### Option 2: Command Line (Python)
-If you prefer the terminal and have Python installed, you can use it to launch a quick web server:
-
-1.  **Clone the repository**
-    ```bash
-    git clone https://github.com/TheSaifHub/Saif-Ibrahim-Portfolio.git
-    cd Saif-Ibrahim-Portfolio
-    ```
-
-2.  **Start the server**
-    ```bash
-    python -m http.server
-    ```
-
-3.  **View in Browser**
-    Open your browser and go to: `http://localhost:8000`
-## 📂 Project Structure
-
 
 ## 📬 Contact Me
 
@@ -69,6 +50,8 @@ I am currently open to roles in **Data Analytics**, **Machine Learning**, and **
 * **LinkedIn:** [Saif Ibrahim](https://www.linkedin.com/in/saif-ibrahim-tech/)
 * **YouTube:** [NextGen Ai Hub](https://www.youtube.com/@NextGenAiHub-i8y)
 * **Portfolio:** [saif-tech-portfolio.netlify.app](https://saifibrahim.netlify.app/)
+
+## 📂 Project Structure
 
 ```text
 ├── assets/
