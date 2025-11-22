@@ -47,7 +47,7 @@ If you prefer the terminal and have Python installed, you can use it to launch a
 
 1.  **Clone the repository**
     ```bash
-    git clone (https://github.com/TheSaifHub/Saif-Ibrahim-Portfolio.git)
+    git clone https://github.com/TheSaifHub/Saif-Ibrahim-Portfolio.git
     cd Saif-Ibrahim-Portfolio
     ```
 
