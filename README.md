@@ -4,6 +4,9 @@
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](http://saifibrahim.netlify.app/)
 [![YouTube](https://img.shields.io/badge/YouTube-NextGen%20Ai%20Hub-red)](https://www.youtube.com/@NextGenAiHub-i8y)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saif%20Ibrahim-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-ibrahim-tech/)
+[![GitHub](https://img.shields.io/badge/GitHub-TheSaifHub-181717?logo=github&logoColor=white)](https://github.com/TheSaifHub)
+[![Instagram](https://img.shields.io/badge/Instagram-nextgen.saif-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/nextgen.saif/)
 
 > **"Turning raw data into actionable intelligence."**
 
